@@ -2,4 +2,4 @@
 
 ## branch-A
 
-branch-A
+Takaが追加しました！
